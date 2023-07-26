@@ -8,6 +8,12 @@ Hints, tips, and suggestions are always welcome!
 
 Thank you! :)
 
+
+
+https://github.com/avinash1413/Netflix-Homepage-Template/assets/116270980/9073bd83-082e-4d40-b2db-a51f34445d14
+
+
+
 ## Built With
 
 - HTML
